@@ -2,157 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://angelyuchu02.github.io/en/blog/tech/</loc>
+    <loc>/en/blog/tech/</loc>
     <lastmod>2022-06-11T21:59:32-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/blog/tech/"
+                href="/zh/blog/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/blog/tech/"
+                href="/en/blog/tech/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/blog/tech/papermod/</loc>
+    <loc>/en/blog/tech/papermod/</loc>
     <lastmod>2022-04-15T00:28:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/blog/tech/papermod/"
+                href="/zh/blog/tech/papermod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/blog/tech/papermod/"
+                href="/en/blog/tech/papermod/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/blog/life/</loc>
+    <loc>/en/blog/life/</loc>
     <lastmod>2022-06-11T21:59:32-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/blog/life/"
+                href="/zh/blog/life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/blog/life/"
+                href="/en/blog/life/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/blog/</loc>
+    <loc>/en/blog/</loc>
     <lastmod>2022-06-11T21:59:32-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/blog/"
+                href="/zh/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/blog/"
+                href="/en/blog/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2022-06-11T21:59:32-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/blog/life/music/</loc>
+    <loc>/en/blog/life/music/</loc>
     <lastmod>2022-05-01T12:44:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/blog/life/music/"
+                href="/zh/blog/life/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/blog/life/music/"
+                href="/en/blog/life/music/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/search/</loc>
+    <loc>/en/search/</loc>
     <lastmod>2022-04-14T21:49:55-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/search/"
+                href="/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/search/"
+                href="/en/search/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/projects/</loc>
+    <loc>/en/projects/</loc>
     <lastmod>2022-04-13T14:39:53-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/projects/"
+                href="/zh/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/projects/"
+                href="/en/projects/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/about/</loc>
+    <loc>/en/publications/</loc>
+    <lastmod>2026-06-16T00:00:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publications/"
+                />
+  </url><url>
+    <loc>/en/about/</loc>
     <lastmod>2022-04-13T14:39:46-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/about/"
+                href="/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/about/"
+                href="/en/about/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/series/"
+                href="/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>https://angelyuchu02.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://angelyuchu02.github.io/zh/tags/"
+                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angelyuchu02.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>
